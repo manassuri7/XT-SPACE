@@ -1,5 +1,7 @@
 This is a Coding Assignment based out of React JS on server side.
 
+The App is live on the following url: https://xt-space-assignment.herokuapp.com/
+
 It uses starter template for [Learn Next.js](https://nextjs.org/learn) in order to achieve the server side rendering.
 
 I have made mainly two UI React Components here i.e. Button and Cards which is handling our filters functionality and Display cards on the screen.
