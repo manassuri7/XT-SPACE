@@ -6,7 +6,7 @@ I have made mainly two UI React Components here i.e. Button and Cards which is h
 
 I have implemented React Hooks in order to get the API data and used media queries for suggested designs.
 
-For UI Design for different devices like Mobile, Tablet and Desktop, we have segregated the screen in 12 different columns depending upon their screen width.
+For UI Design for different devices like Mobile, Tablet and Desktop, I have segregated the screen in 12 different columns depending upon their screen width.
 
 In order to run the app.
 
